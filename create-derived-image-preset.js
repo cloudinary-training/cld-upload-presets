@@ -1,8 +1,7 @@
 require("dotenv").config();
 const cloudinary = require("cloudinary").v2;
 
-cloudinary.api
-  .create_upload_preset({
+cloudinary.api.create_upload_preset({
     name: "profile-preset",
     tags: "employees, faces, profile",
     folder: "profiles",
