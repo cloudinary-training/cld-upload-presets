@@ -7,3 +7,13 @@ cloudinary.uploader.upload('./assets/woman.jpg', {
 })
 .then(uploadResult => console.log(uploadResult))
 .catch(error => console.error(error));
+
+
+
+
+
+
+
+
+
+
