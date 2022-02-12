@@ -18,3 +18,12 @@ cloudinary.api.create_upload_preset({
   })
   .then((uploadResult) => console.log(uploadResult))
   .catch((error) => console.error(error));
+
+
+
+
+
+
+
+
+  
