@@ -7,3 +7,11 @@ cloudinary.uploader.upload('./assets/baby.jpg', {
 })
 .then(uploadResult => console.log(uploadResult))
 .catch(error => console.error(error));
+
+
+
+
+
+
+
+
