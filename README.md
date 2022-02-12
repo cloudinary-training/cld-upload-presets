@@ -1,6 +1,6 @@
 # Upload Presets
 
-In this module we walk through how to programmatically create two different upload presets and upload assets to Cloudinary using those presets. 
+In this module we walk through how to programmatically create two different upload presets and then use those presets to upload assets to Cloudinary.
 
 ## Environment Setup
 
@@ -21,7 +21,6 @@ brew install node
 #### Verify Node/NPM install
 
 ```bash
-# verify versions
 $ node --version
 v16.13.0
 
