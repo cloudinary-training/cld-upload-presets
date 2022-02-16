@@ -1,6 +1,6 @@
 # Upload Presets
 
-In this module we walk through how to programmatically create two different upload presets and then use those presets to upload assets to Cloudinary.
+In this module we walk through how to programmatically create two different upload presets and then use those presets to upload assets to Cloudinary. We also take a peek at a more complex preset that you could use to process short form video.
 
 ## Environment Setup
 
@@ -77,7 +77,10 @@ Example: run image upload script
 node optimization/images/upload.js
 ```
 ### Video Tutorial
-You can find a [video tutorial](https://cloudinary.com/documentation/upload_programmatically_tutorial) in Cloudinary Documentation that covers Node.js setup and upload to your Cloudinary cloud.
+You can find a [video tutorial:](https://cloudinary.com/documentation/upload_programmatically_tutorial) in Cloudinary Documentation that covers Node.js setup and upload to your Cloudinary cloud.
+
+### Upload Presets Docs
+Additional information about upload presets from the docs [upload presets docs:](https://cloudinary.com/documentation/upload_presets)
 
 ## Asset Credits
 
