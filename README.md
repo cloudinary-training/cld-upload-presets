@@ -1,4 +1,4 @@
-# Upload Presets Demo Repo for Training
+# Upload Presets Demo Repo for Training/Tutorial
 
 In this module we walk through how to programmatically create two different upload presets and then use those presets to upload assets to Cloudinary. We also take a peek at a more complex preset that you could use to process short form video.
 
