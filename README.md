@@ -65,11 +65,6 @@ Npm install Node.js libraries. You will be using the `cloudinary` and the `doten
 npm i
 ```
 
-```bash
-node testCredentials.js
-```
-You should your cloud name and API key reported.  Keep your API_SECRET a secret!
-
 ### Run Code: Run code in optimization directory
 Example: run image upload script
 
